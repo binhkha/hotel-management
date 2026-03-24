@@ -317,3 +317,10 @@ Dự án này được phát triển cho mục đích học tập và demo. Vui 
 ---
 
 **© 2025 Khách sạn Miền Tây. Bảo lưu mọi quyền.**
+
+
+git init → tạo repo
+git add . → chọn file để upload
+git commit → đóng gói lại
+git push → đẩy lên GitHub
+
