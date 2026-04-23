@@ -1,4 +1,4 @@
-# 🏨 HỆ THỐNG QUẢN LÝ KHÁCH SẠN MIỀN TÂY
+# 🏨 Website ĐẶT PHÒNG KHÁCH SẠN MIỀN TÂY
 
 Hệ thống quản lý khách sạn được xây dựng bằng Laravel 9, hỗ trợ đặt phòng trực tuyến, quản lý phòng, quản lý nhân viên và quản lý đơn đặt phòng.
 
